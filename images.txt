@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 dreamacro/clash
 criyle/go-judge
+python:3.12.10-bullseye
