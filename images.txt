@@ -13,4 +13,8 @@ mysql
 redis
 jupyter/datascience-notebook
 rocker/vscode
-kasmweb/desktop
+ubuntu:22.04
+ubuntu:24.04
+consol/ubuntu-xfce-vnc:nightly
+consol/centos-xfce-vnc:nightly
+linuxserver/code-server
