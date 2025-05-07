@@ -8,7 +8,7 @@ dreamacro/clash
 criyle/go-judge
 python:3.12.10-bullseye
 winterant/lduoj
-winterant/go-judge
+winterant/go-judge:1.1
 mysql
 redis
 jupyter/datascience-notebook
