@@ -18,3 +18,4 @@ ubuntu:24.04
 consol/ubuntu-xfce-vnc:nightly
 consol/centos-xfce-vnc:nightly
 linuxserver/code-server
+haishanh/yacd:latest  #clash ui
