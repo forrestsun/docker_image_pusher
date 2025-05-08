@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-dreamacro/clash
+dreamacro/clash:latest
 criyle/go-judge
 python:3.12.10-bullseye
 winterant/lduoj
