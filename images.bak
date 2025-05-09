@@ -1,0 +1,17 @@
+dreamacro/clash:latest
+criyle/go-judge
+python:3.12.10-bullseye
+winterant/lduoj
+winterant/go-judge:1.1
+mysql
+mysql:8.0.36
+redis
+jupyter/datascience-notebook
+rocker/vscode
+ubuntu:22.04
+ubuntu:24.04
+consol/ubuntu-xfce-vnc:nightly
+consol/centos-xfce-vnc:nightly
+linuxserver/code-server
+#clash ui
+haishanh/yacd:latest
