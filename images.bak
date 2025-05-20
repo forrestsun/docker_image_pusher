@@ -1,5 +1,4 @@
 dreamacro/clash:latest
-criyle/go-judge
 python:3.12.10-bullseye
 mysql
 mysql:8.0.36
