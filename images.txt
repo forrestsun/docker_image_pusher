@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #criyle/go-judge
 #criyle/go-judge:v1.9.3
-python:3.11-slim
+#python:3.11-slim
+node:20-alpine
