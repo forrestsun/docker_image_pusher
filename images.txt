@@ -10,3 +10,4 @@ criyle/go-judge
 #node:20-alpine
 #qdrant/qdrant
 node:20-bookworm-slim
+fatedier/frp
